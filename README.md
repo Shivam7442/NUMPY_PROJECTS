@@ -30,7 +30,7 @@ The goal of this repository is simple:
 * [1] Matrix Calculator
 * [1] Student Marks Analyzer
 * [1] Dice Simulator
-* [0] Random Password Generator
+* [1] Random Password Generator
 
 **Topics I'll Learn**
 
@@ -45,10 +45,10 @@ The goal of this repository is simple:
 
 ### 🟡 Level 2 – Intermediate Projects
 
-* [ ] Image Brightness Editor
-* [ ] Conway's Game of Life
-* [ ] Heat Map Simulation
-* [ ] Weather Data Analyzer
+* [0] Image Brightness Editor
+* [0] Conway's Game of Life
+* [0] Heat Map Simulation
+* [0] Weather Data Analyzer
 
 **Topics I'll Learn**
 
@@ -62,10 +62,10 @@ The goal of this repository is simple:
 
 ### 🔴 Level 3 – AI/ML Foundations
 
-* [ ] Linear Regression from Scratch
-* [ ] K-Means Clustering
-* [ ] Principal Component Analysis (PCA)
-* [ ] Neural Network from Scratch
+* [0] Linear Regression from Scratch
+* [0] K-Means Clustering
+* [0] Principal Component Analysis (PCA)
+* [0] Neural Network from Scratch
 
 **Topics I'll Learn**
 
