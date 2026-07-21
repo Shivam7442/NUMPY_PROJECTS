@@ -27,10 +27,10 @@ The goal of this repository is simple:
 
 ### 🟢 Level 1 – NumPy Fundamentals
 
-* [ ] Matrix Calculator
-* [ ] Student Marks Analyzer
-* [ ] Dice Simulator
-* [ ] Random Password Generator
+* [1] Matrix Calculator
+* [1] Student Marks Analyzer
+* [1] Dice Simulator
+* [0] Random Password Generator
 
 **Topics I'll Learn**
 
